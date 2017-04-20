@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://180.166.29.82:8080/TTPOS/sales.asmx?wsdl" docRef="http://180.166.29.82:8080/TTPOS/sales.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://180.166.29.82:8080/TTPOS/sales.asmx" xmlns:q1="http://tempurl.org" binding="q1:salesSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://180.166.29.82:8080/TTPOS/sales.asmx" xmlns:q2="http://tempurl.org" binding="q2:salesSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>
